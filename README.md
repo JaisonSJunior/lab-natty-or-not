@@ -1,51 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Tentei recriar uma imagem do meu cachorro
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT-4o e DALL-E (recurso chamado pelo chat)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Fiz uma solicitação por prompt usando linguagem natural, com o seguinte texto "Faça uma imagem que se aproxime o máximo possível de uma foto.
+Na imagem, terá o meu cachorro, que é sem raça definida, fêmea, 8 kg, pelo cor caramelo e longo, mais claro na região da barriga, orelhas triangulares levantadas, focinho longo, cauda lembra uma raposinha na cor caramelo. 
+O cenário pode ser um gramado comum"
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Apresente os resultados do seu projeto](https://github.com/JaisonSJunior/lab-natty-or-not/blob/main/DALL%C2%B7E%202024-07-15%2018.49.37%20-%20A%20dog%20without%20a%20specific%20breed%2C%20female%2C%20weighing%208%20kg%2C%20with%20long%20caramel-colored%20fur%20that%20is%20lighter%20on%20the%20belly%20area.%20The%20dog%20has%20triangular%20upright.webp)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Não ficou completamente natural, mas, dado a quantia de detalhes fornecidos e o resultado, ficou bem próximo. O que é impressionante, uma vez que o chat nunca viu meu cão e ele ainda é um vira-latas, o que torna mais díficil formar uma imagem até mesmo para pessoas.
+Se eu pedisse uma pintura digital para uma pessoa e desse essa descrição, provavelmente ela não chegaria tão proximo a aparência real de meu cachorro sem nunca tê-lo visto
